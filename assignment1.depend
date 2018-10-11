@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539241634 source:d:\college\4th year\1st term\computer graphics\programs\assignment1\main.c
+	<windows.h>
+	<gl/gl.h>
+
